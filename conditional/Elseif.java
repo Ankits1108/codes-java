@@ -6,6 +6,7 @@ public class Elseif {
         } 
         else if (age<18 && age>13){
             System.out.println("teenager");
+            System.out.println("You are small now");
         }else {
             System.out.println("child");
         }
